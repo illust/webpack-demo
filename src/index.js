@@ -1,3 +1,4 @@
+import("./areuok.png")
 import "./style.scss"
 const getFilesName = (fileArray) => {
     return Object.values(fileArray)
